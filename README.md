@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
-<h3 align="center"> Product Manager @ SeedLegals | Building the AI features I used to just spec </h3>
+<h3 align="center"> Product Manager @ SeedLegals | Building the AI features </h3>
 
 - 🔧 Picking up the build side deliberately: Python, evals, Claude Code as a daily tool
 - 📦 Specced and shipped AI features at SeedLegals: compliance health checks, an AI-powered dashboard, an internal chatbot
